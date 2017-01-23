@@ -1,0 +1,27 @@
+
+<div class="block-type-feed-reader item-list">
+    <div class="attribute-header">
+        <h2>
+            <a href="http://ez.no/" title="eZ News">eZ News</a>
+        </h2>
+    </div>
+    <article>
+        <ul>
+                    <li>
+                <a href="http://ez.no/Blog/The-Week-in-Review-Admin-UI-Internationalization-Slack-threaded-messaging-and-more" title="The Week in Review: Admin UI Internationalization, Slack threaded messaging and more">The Week in Review: Admin UI Internationalization, Slack threaded messaging and more</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/Blog/The-Week-in-Review-deciding-on-UI-technology-eZ-Find-how-to-and-more" title="The Week in Review: deciding on UI technology, eZ Find how to and more">The Week in Review: deciding on UI technology, eZ Find how to and more</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/Blog/Youth-Olympic-Games-wins-gold-with-eZ-Publish" title="Youth Olympic Games wins gold with eZ Publish">Youth Olympic Games wins gold with eZ Publish</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/Blog/FindaTopDoc-launches-new-site-on-eZ-Publish" title="FindaTopDoc launches new site on eZ Publish">FindaTopDoc launches new site on eZ Publish</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/Blog/Deciding-on-UI-Technology-for-eZ-Platform-2.x" title="Deciding on UI Technology for eZ Platform 2.x">Deciding on UI Technology for eZ Platform 2.x</a>
+            </li>
+                </ul>
+    </article>
+</div>

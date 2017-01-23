@@ -1,0 +1,60 @@
+[ Nov 16 2014 14:36:34 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Nov 16 2014 14:36:34 ] [] eZDir::recursiveDelete:
+The path: var/cache/template/compiled is not a folder
+[ Nov 16 2014 14:36:34 ] [] eZDir::recursiveDelete:
+The path: var/cache/override is not a folder
+[ Jan 22 2017 22:16:57 ] [192.168.1.20] :
+Could not open file 'var/ezdemo_site/cache/translation/116c467d302d69cc1951896fc44b1880/fre-FR/8c49d63bafa24ad507e630d655fc6181.php' for writing, perhaps wrong permissions
+[ Jan 22 2017 22:16:57 ] [192.168.1.20] eZPHPCreator::store:
+Failed to open file 'var/ezdemo_site/cache/translation/116c467d302d69cc1951896fc44b1880/fre-FR/8c49d63bafa24ad507e630d655fc6181.php'
+[ Jan 22 2017 22:16:58 ] [192.168.1.20] :
+Could not open file 'var/ezdemo_site/cache/translation/116c467d302d69cc1951896fc44b1880/fre-FR/e3e33c8031d797741fb3085b9595230c.php' for writing, perhaps wrong permissions
+[ Jan 22 2017 22:16:58 ] [192.168.1.20] eZPHPCreator::store:
+Failed to open file 'var/ezdemo_site/cache/translation/116c467d302d69cc1951896fc44b1880/fre-FR/e3e33c8031d797741fb3085b9595230c.php'
+[ Jan 22 2017 22:17:16 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/getting-started/selected-features/getting-started-with-ez-publish-platform/313-1-fre-FR/Getting-Started-with-eZ-Publish-Platform_campaign.jpg failed
+[ Jan 22 2017 22:17:17 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/getting-started/selected-features/create/291-1-fre-FR/Create_contentgrid.jpg failed
+[ Jan 22 2017 22:17:18 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/getting-started/selected-features/deliver/280-1-fre-FR/Deliver_contentgrid.jpg failed
+[ Jan 22 2017 22:17:19 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/getting-started/selected-features/optimize/302-1-fre-FR/Optimize_contentgrid.jpg failed
+[ Jan 22 2017 22:17:19 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/getting-started/selected-features/automate/269-1-fre-FR/Automate_contentgrid.jpg failed
+[ Jan 22 2017 22:17:20 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-fuji/537-1-fre-FR/mount-Fuji_gallery.jpg failed
+[ Jan 22 2017 22:17:21 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-matterhorn/507-1-fre-FR/mount-Matterhorn_gallery.jpg failed
+[ Jan 22 2017 22:17:21 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-fuji/537-1-fre-FR/mount-Fuji_gallerythumbnail.jpg failed
+[ Jan 22 2017 22:17:22 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-matterhorn/507-1-fre-FR/mount-Matterhorn_gallerythumbnail.jpg failed
+[ Jan 22 2017 22:17:22 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-annapurna/512-1-fre-FR/mount-Annapurna_gallery.jpg failed
+[ Jan 22 2017 22:17:23 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-annapurna/512-1-fre-FR/mount-Annapurna_gallerythumbnail.jpg failed
+[ Jan 22 2017 22:17:23 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-etna/532-1-fre-FR/mount-Etna_gallery.jpg failed
+[ Jan 22 2017 22:17:23 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-etna/532-1-fre-FR/mount-Etna_gallerythumbnail.jpg failed
+[ Jan 22 2017 22:17:24 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-kilimanjaro/527-1-fre-FR/mount-Kilimanjaro_gallery.jpg failed
+[ Jan 22 2017 22:17:24 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-kilimanjaro/527-1-fre-FR/mount-Kilimanjaro_gallerythumbnail.jpg failed
+[ Jan 22 2017 22:17:25 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-stadda/517-1-fre-FR/mount-Stadda_gallery.jpg failed
+[ Jan 22 2017 22:17:30 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-stadda/517-1-fre-FR/mount-Stadda_gallerythumbnail.jpg failed
+[ Jan 22 2017 22:17:35 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-aconcagua/542-1-fre-FR/mount-Aconcagua_gallery.jpg failed
+[ Jan 22 2017 22:17:36 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-aconcagua/542-1-fre-FR/mount-Aconcagua_gallerythumbnail.jpg failed
+[ Jan 22 2017 22:17:37 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-ventoux/522-1-fre-FR/mount-Ventoux_gallery.jpg failed
+[ Jan 22 2017 22:17:37 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/media/images/mount-ventoux/522-1-fre-FR/mount-Ventoux_gallerythumbnail.jpg failed
+[ Jan 22 2017 22:17:38 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/shopping/products/ez-publish-man-jacket/361-1-fre-FR/eZ-Publish-Man-jacket_productthumbnail.jpg failed
+[ Jan 22 2017 22:17:38 ] [192.168.1.20] eZImageHandler::changeFilePermissions:
+Chmod 0666 var/ezdemo_site/storage/images/shopping/products/ez-publish-community-iphone-4-case/331-1-fre-FR/eZ-Publish-Community-iPhone-4-Case_productthumbnail.jpg failed
